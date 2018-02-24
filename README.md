@@ -1,6 +1,6 @@
 Usage (Create):
 ------------
-- https://little-url.herokuapp.com/new/https://www.google.com
+- https://shorthis.glitch.me/new/https://www.google.com
 
 Output (Create):
 ------------
@@ -8,7 +8,7 @@ Output (Create):
 
 Usage (Access):
 ------------
-- https://little-url.herokuapp.com/6161
+- https://shorthis.glitch.me/6161
 
 Output (Access):
 ------------
